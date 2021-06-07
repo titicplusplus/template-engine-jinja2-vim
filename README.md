@@ -42,7 +42,7 @@ The jinja2 file:
  24         color: {{ color }};
  25 }
 ```
-When the result:
+The result:
 ```python
   1 ### python file
   2 
