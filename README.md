@@ -68,9 +68,4 @@ The result:
  22         color: rgb(125,110,002);
  23 }
 ```
-# Problem
-There just one problem, if you write ```'``` alone, the script crashes.
-```char a = 'a'; ``` or ```a=''``` work good, but:
-```the extension's code``` or ``` "that's why i eat" ``` don't work.
-I am looking to fix it.
 
